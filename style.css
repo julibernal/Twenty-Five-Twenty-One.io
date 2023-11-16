@@ -1,0 +1,44 @@
+/*Comentarios*/
+/*Selector de tipo etiqueta HTML*/  
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    justify-content: center;
+}
+
+body{
+    background: hsl(307, 64%, 66%);
+    color: black;
+    justify-content: center;
+}
+.tarjeta{
+    background-color:rgba(77, 7, 47, 0.452, 0.623);
+}
+/*Selectores de tipo clase*/
+
+#titulo-reparto{
+    color: brown;
+
+}
+p{
+    font-weight: bold; /*Negritas*/
+}
+
+    #titulo-detalles{
+        color: brown;
+    }
+    #titulo-sinópsis{
+        color: brown;
+    }
+#titulo-premios{
+    color: brown;
+}
+#titulo-ost{
+    color: brown;
+}
+.tarjeta{
+    background-color: white;
+}
+#título-galería{
+    color: brown;
+    
+}
